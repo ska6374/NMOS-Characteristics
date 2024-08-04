@@ -38,6 +38,11 @@ Technology: gpdk180nm<BR>
 <BR>
 <H2>VI. Schematic :</H2><br>
 
+![1](https://github.com/user-attachments/assets/ccdc9f1f-554b-4aea-92ca-fa31a0cdcc67)
+
+<br>
+<br>
+
 ![2](https://github.com/user-attachments/assets/c0125f2d-e033-44ce-a862-a7cb66cbcb52)
 <br>
 <br>
