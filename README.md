@@ -14,11 +14,11 @@ ii. P Channel MOSFET.<br>
 <BR>
 <H2>III. Advantages Of N-Channel MOSFET</H2><BR>
 1. In the n-channel MOSFET mobility of electrons is greater the mobility of holes in the p-channel MOSFET.<BR>
-It has better signal integrity.<BR>
-It can handle the higher frequency operation.<BR>
-It reduces the cross over distortion.<BR>
-The NMOS is only transistor in which no isolation-island are required, that’s why high packing density is suitable for all logic families including VLSI, ULSI etc.<BR>
-NMOS has large Fanout.<BR>
+2. It has better signal integrity.<BR>
+3. It can handle the higher frequency operation.<BR>
+4. It reduces the cross over distortion.<BR>
+5. The NMOS is only transistor in which no isolation-island are required, that’s why high packing density is suitable for all logic families including VLSI, ULSI etc.<BR>
+6. NMOS has large Fanout.<BR>
 <BR>
 <H2>IV. Applications Of N-Channel MOSFET :</H2><BR>
 1. It can be operates in both saturation region and cut-off region.<BR>
@@ -26,5 +26,38 @@ NMOS has large Fanout.<BR>
 3. N-channel MOSFETs are used in high current application.<BR>
 4. It can be used as power converters in modern electric vehicles.<BR>
 5. It can be used in battery powered motors and in motor control also.<BR>
+
+<BR>
+<H2>V. Tools Used :</H2>
+<BR>
+
+Schematic: Cadence Virtuoso - Schematic XL<BR>
+Simulation: Cadence Virtuoso - ADE L<BR>
+Layout: Cadence Virtuoso - Layout XL<BR>
+Technology: gpdk180nm<BR>
+<BR>
+<H2>VI. Schematic :</H2><br>
+
+![2](https://github.com/user-attachments/assets/c0125f2d-e033-44ce-a862-a7cb66cbcb52)
+<br>
+<br>
+![7](https://github.com/user-attachments/assets/da6c6ddc-c9e7-4b3d-9176-ae0d667d044c)
+<br>
+<br>
+<H2>VI. Output Waveform :</H2><br>
+
+![4](https://github.com/user-attachments/assets/2c6a9ab8-3d5d-46f1-9416-1a5589f317fb)
+<br>
+<br>
+
+![6](https://github.com/user-attachments/assets/c800ec4c-c101-410a-93be-175809756452)
+<br>
+<br>
+![10](https://github.com/user-attachments/assets/81ff070c-416d-40d0-9192-7d4f5966c639)
+
+
+
+
+
 
 
